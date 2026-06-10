@@ -18,8 +18,6 @@
  
 ### 📝 个人主页及部分博客
 - 个人主页：https://solyi.cn
-- 博客园个人主页（里面会放一些文章和碎碎念）：https://www.cnblogs.com/ywyc
 
 ### 📫 个人邮箱
-- liyiwen1013@gmail.com
 
